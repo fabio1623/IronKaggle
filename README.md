@@ -9,4 +9,4 @@ The model is contained within the solution.ipynb file. Simply run the cells in o
 ## Author
 This project was created by Fabio SARMENTO PEDRO.
 ## License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License.
